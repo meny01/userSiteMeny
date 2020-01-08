@@ -1,0 +1,56 @@
+﻿
+@model UsersViewModel
+
+<form asp-controller="Home" asp-action="Update" method="post">
+
+    <div class="form-group">
+        <label asp-for="Id">Id</label>
+        <input asp-for="Id" required type="number" class="form-control" />
+        <span asp-validation-for="Id"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" required class="form-control" />
+        <span asp-validation-for="Name"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Mail">Mail</label>
+        <input type="email" asp-for="Mail" class="form-control" />
+        <span asp-validation-for="Mail"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Birthday">Birthday</label>
+        <input asp-for="Birthday" required class="form-control" placeholder="Birthday">
+        <span asp-validation-for="Birthday" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Gender">Gender</label>
+        <select asp-for="Gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control selectpicker">
+            <option></option>
+        </select>
+        <span asp-validation-for="Gender"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber">Phone number</label>
+        <input type="number" asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber"></span>
+
+    </div>
+
+    <hr />
+
+    <button type="submit" class="btn btn-primary float-right">Save</button>
+</form>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var id = $('#Id').val();
+        if (id == 0) 
+            $('#Id').val("");
+    });
+</script>

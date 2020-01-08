@@ -1,0 +1,104 @@
+﻿@model List<UsersViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    Label {
+        float: left;
+        font-weight: bold;
+    }
+
+    .fas {
+        cursor: pointer;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Users Table</h1>
+    <p>You can Add/Edit/Remove data.</p>
+    <hr />
+    <button class="btn btn-primary float-right" onclick="Update(0)">
+        <span class="fas fa-user-plus"></span>
+        Add User
+    </button>
+
+
+    <table class="table table-striped table-hover table-bordered table-condensed" data-page-length='25'>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Mail</th>
+                <th>Birthday</th>
+                <th>Gender</th>
+                <th>Phone Number</th>
+                <th></th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr data-id="@item.Id">
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Mail</td>
+                    <td>@item.Birthday</td>
+                    <td>@item.Gender</td>
+                    <td>@item.PhoneNumber</td>
+                    <td>
+                        <span class="fas text-info fa-edit tooltiptext" id="@item.Id" onclick="Update(this.id)"
+                              title="Edit User" data-placement="bottom" data-trigger="hover"></span>
+                        <span class="fas text-danger fa-trash-alt tooltiptext" id="@item.Id" onclick="Delete(this.id)"
+                              title="Delete User" data-placement="bottom" data-trigger="hover"></span>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <partial name="_OpenModal" />
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        function Update(id) {
+
+            var url = "/Home/Update?id=" + id;
+            $('#myModalBodyDiv').load(url, function () {
+                if (id == 0)
+                    $('#ModalTitle').text("Add User")
+                else
+                    $('#ModalTitle').text("Edit User")
+
+                $("#myModal").modal("show")
+            })
+        }
+
+
+        function Delete(id) {
+            var result = confirm("Want to delete?");
+            if (result) {
+                $.ajax({
+                    url: '/Home/Delete?id=' + id,
+                    dataType: "json",
+                    type: "DELETE",
+                    contentType: 'application/json; charset=utf-8',
+                    async: true,
+                    processData: false,
+                    cache: false,
+                    success: function (data) {
+                        alert(data);
+                        location.reload();
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            }
+        }
+    </script>
+
+}

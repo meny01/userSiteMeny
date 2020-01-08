@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.deps.json
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.runtimeconfig.json
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.runtimeconfig.dev.json
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.dll
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.pdb
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.Views.dll
+C:\Users\User\source\repos\UserSite\UserSite\bin\Debug\netcoreapp2.2\UserSite.Views.pdb
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.AssemblyInfo.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.TagHelpers.input.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.TagHelpers.output.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorCoreGenerate.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.Views.pdb
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.dll
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.pdb
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.csproj.CopyComplete
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_OpenModal.g.cshtml.cs
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\UserSite.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UserSite\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Update.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.deps.json
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.runtimeconfig.json
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.dll
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.pdb
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.Views.dll
+C:\Users\User\Desktop\New folder (4)\UserSite\bin\Debug\netcoreapp2.2\UserSite.Views.pdb
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.TagHelpers.input.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.TagHelpers.output.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorCoreGenerate.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Update.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_OpenModal.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.Views.pdb
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.dll
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.pdb
+C:\Users\User\Desktop\New folder (4)\UserSite\obj\Debug\netcoreapp2.2\UserSite.csproj.CopyComplete
